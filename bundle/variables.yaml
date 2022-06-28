@@ -1,0 +1,4 @@
+variables:
+- team: ncoyne-workshop-cloudBees
+- admin-user: ncoyne-admin
+- manager-user: ncoyne
